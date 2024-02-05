@@ -11,11 +11,10 @@ PHP version 7.3 or newer
 Database mySQL 5.x
 
 # Installation
-ekstrak file gis ke dalam folder htdocs
-buat database baru dengan nama gis
-import file gis.sql ke database gis yang sudah dibuat tadi
-localhost/gis untuk login ke dalam panel admin
-Setting Database
+<p> ekstrak file gis ke dalam folder htdocs </p>
+<p> buat database baru dengan nama gis </p>
+<p> import file gis.sql ke database gis yang sudah dibuat tadi </p>
+<p> localhost/gis untuk login ke dalam halaman login </p>
 
 # User
 Admin
