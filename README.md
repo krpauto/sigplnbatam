@@ -19,10 +19,13 @@ Setting Database
 
 # User
 Admin
-Username : admin
-Password : admin
+<p> Username : admin </p>
+<p> Password : admin </p>
 
 Karyawan
-Username : karyawan
-Password : karyawan
+<p> Username : karyawan </p>
+<p> Password : karyawan </p>
+
+
+Jika ada masukan untuk project ini silahkan gunakan fitur issues di github
 
