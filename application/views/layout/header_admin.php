@@ -69,11 +69,21 @@
         </div>
         <div class="sidebar-brand-text mx-3"></div>
       </a>
-      <hr class="sidebar-divider my-0">
+ <hr class="sidebar-divider my-0">
       <li class="nav-item <?= $this->uri->segment(2) == 'dashboard' ? 'active' : null ?>">
         <a class="nav-link" href="<?= site_url("admin/dashboard") ?>">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
+      </li>
+      <li class="nav-item <?= $this->uri->segment(2) == 'peta_pelanggan' ? 'active' : null ?>">
+        <a class="nav-link" href="<?= site_url("admin/peta_pelanggan") ?>">
+          <i class="fas fa-map"></i>
+          <span>Peta Pelanggan</span></a>
+      </li>
+      <li class="nav-item <?= $this->uri->segment(2) == 'peta_odp' ? 'active' : null ?>">
+        <a class="nav-link" href="<?= site_url("admin/peta_odp") ?>">
+          <i class="fas fa-solid fa-map"></i>
+          <span>Peta ODP</span></a>
       </li>
       <li class="nav-item <?= $this->uri->segment(2) == 'pelanggan' ? 'active' : null ?>">
         <a class="nav-link" href="<?= site_url("admin/pelanggan") ?>">
@@ -82,7 +92,7 @@
       </li>
       <li class="nav-item <?= $this->uri->segment(2) == 'odp' ? 'active' : null ?>">
         <a class="nav-link" href="<?= site_url("admin/odp") ?>">
-          <i class="fas fa-bolt"></i>
+          <i class="fas fa-user-tag"></i>
           <span>Data ODP</span></a>
       </li>
       <hr class="sidebar-divider">
