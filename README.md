@@ -6,7 +6,8 @@ Sistem Informasi Geografis Pemetaan Lokasi Pelanggan dan Lokasi Odp PT PLN Batam
 ![login sig](https://github.com/krpauto/sigplnbatam/assets/82790760/3a658e44-ff27-40eb-acc0-f9843001cc7c)
 
 <p>HALAMAN DASHBOARD ADMIN</p>
-![dashboard admin 1](https://github.com/krpauto/sigplnbatam/assets/82790760/f85a173b-6f59-46e8-b8c1-76720bd01d6b)
+![dashboard admin 1](https://github.com/krpauto/sigplnbatam/assets/82790760/c1e9563d-a795-4beb-8a93-6ee35d458df8)
+
 
 
 # Server Requierment
