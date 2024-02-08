@@ -1,4 +1,4 @@
-# sigplnbatam
+# sistem infromasi geografis plnbatam
 Sistem Informasi Geografis Pemetaan Lokasi Pelanggan dan Lokasi Odp PT PLN Batam Menggunakan API MAPBOX
 
 <p>HALAMAN LOGIN</p>
