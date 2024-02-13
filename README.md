@@ -9,7 +9,7 @@ Sistem Informasi Geografis Pemetaan Lokasi Pelanggan dan Lokasi Odp PT PLN Batam
 <a href="https://ibb.co/5kMyLR1"><img src="https://i.ibb.co/Scs8B36/dashboard-admin-1.jpg" alt="dashboard-admin-1" border="0"></a>
 
 <p>HALAMAN PETA PELANGGAN KARYAWAN</p>
-![peta pelanggan karyawan](https://github.com/krpauto/sigplnbatam/assets/82790760/edc2ce4f-6947-4f0f-80fc-aec6c9350c7e)
+<a href="https://ibb.co/9ZbmJ5Z"><img src="https://i.ibb.co/tLqwSrL/peta-pelanggan-karyawan.jpg" alt="peta-pelanggan-karyawan" border="0"></a>
 
 
 
