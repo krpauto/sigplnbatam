@@ -22,7 +22,7 @@ Database mySQL 5.x
 
 # Installation
 <p> ekstrak file gis ke dalam folder htdocs </p>
-<p> buat database baru dengan nama gis </p>
+<p> buat database baru di phpmyadmin dengan nama gis </p>
 <p> import file gis.sql ke database gis yang sudah dibuat tadi </p>
 <p> localhost/gis untuk login ke dalam halaman login </p>
 
