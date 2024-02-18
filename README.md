@@ -5,10 +5,10 @@ Sistem Informasi Geografis Pemetaan Lokasi Pelanggan dan Lokasi Odp PT PLN Batam
 
 ![login sig](https://github.com/krpauto/sigplnbatam/assets/82790760/3a658e44-ff27-40eb-acc0-f9843001cc7c)
 
-<p>HALAMAN DASHBOARD ADMIN</p>
+<p>DASHBOARD PAGE</p>
 <a href="https://ibb.co/5kMyLR1"><img src="https://i.ibb.co/Scs8B36/dashboard-admin-1.jpg" alt="dashboard-admin-1" border="0"></a>
 
-<p>HALAMAN PETA PELANGGAN KARYAWAN</p>
+<p>EMPLOYEE CUSTOMER MAP PAGE</p>
 <a href="https://ibb.co/9ZbmJ5Z"><img src="https://i.ibb.co/tLqwSrL/peta-pelanggan-karyawan.jpg" alt="peta-pelanggan-karyawan" border="0"></a>
 
 
