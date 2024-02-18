@@ -1,5 +1,5 @@
-# sistem informasi geografis pemetaan lokasi pelanggan dan lokasi odp plnbatam
-Sistem Informasi Geografis Pemetaan Lokasi Pelanggan dan Lokasi Odp PT PLN Batam Menggunakan API MAPBOX
+# geographic information system mapping customer locations and PLN Batam ODP locations
+Geographic Information System Mapping Customer Locations and PT PLN Batam ODP Locations Using MAPBOX API
 
 <p>LOGIN PAGE</p>
 
