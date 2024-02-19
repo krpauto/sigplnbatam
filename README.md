@@ -35,6 +35,5 @@ Karyawan
 <p> Username : karyawan </p>
 <p> Password : karyawan </p>
 
-
-Jika ada masukan untuk project ini silahkan gunakan fitur issues di github
+If you have input on this project, please use the issues feature on GitHub
 
