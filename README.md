@@ -21,10 +21,10 @@ PHP version 7.3 or newer
 Database mySQL 5.x
 
 # Installation
-<p> ekstrak file gis ke dalam folder htdocs </p>
-<p> buat database baru di phpmyadmin dengan nama gis </p>
-<p> import file gis.sql ke database gis yang sudah dibuat tadi </p>
-<p> localhost/gis untuk login ke dalam halaman login </p>
+<p> extract the gis file into the htdocs folder </p>
+<p> create a new database in phpmyadmin with the name giss </p>
+<p> Import the gis.sql file into the gis database that was created earlier </p>
+<p> localhost/gis to log into the login page </p>
 
 # User
 Admin
