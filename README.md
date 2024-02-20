@@ -31,6 +31,9 @@ Admin
 <p> Username : admin </p>
 <p> Password : admin </p>
 
+# Folder Assets
+<p>https://drive.google.com/file/d/1WW5oFBh4OcFpCds_YAWkwOM7i6KWdzjF/view?usp=sharing</p>
+
 Karyawan
 <p> Username : karyawan </p>
 <p> Password : karyawan </p>
