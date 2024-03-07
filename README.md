@@ -1,6 +1,8 @@
 # geographic information system mapping customer locations and pln batam odp locations
 Geographic Information System Mapping Customer Locations and PT PLN Batam ODP Locations Use MAPBOX API
 
+<p>TEMPLATE : RUANG ADMIN </p>
+
 <p>LOGIN PAGE</p>
 
 ![login sig](https://github.com/krpauto/sigplnbatam/assets/82790760/3a658e44-ff27-40eb-acc0-f9843001cc7c)
