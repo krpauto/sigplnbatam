@@ -1,5 +1,5 @@
 # geographic information system mapping customer locations and pln batam odp locations
-Geographic Information System Mapping Customer Locations and PT PLN Batam ODP Locations Use MAPBOX API
+Geographic Information System Mapping Customer Locations and PT PLN Batam odp Locations Use MAPBOX API
 
 <p>TEMPLATE : RUANG ADMIN </p>
 
@@ -12,7 +12,6 @@ Geographic Information System Mapping Customer Locations and PT PLN Batam ODP Lo
 
 <p>EMPLOYEE CUSTOMER MAP PAGE</p>
 <a href="https://ibb.co/9ZbmJ5Z"><img src="https://i.ibb.co/tLqwSrL/peta-pelanggan-karyawan.jpg" alt="peta-pelanggan-karyawan" border="0"></a>
-
 
 
 
