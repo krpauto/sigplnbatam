@@ -7,14 +7,6 @@ Geographic Information System Mapping Customer Locations and PT PLN Batam odp Lo
 
 ![login sig](https://github.com/krpauto/sigplnbatam/assets/82790760/3a658e44-ff27-40eb-acc0-f9843001cc7c)
 
-<p>DASHBOARD PAGE</p>
-<a href="https://ibb.co/5kMyLR1"><img src="https://i.ibb.co/Scs8B36/dashboard-admin-1.jpg" alt="dashboard-admin-1" border="0"></a>
-
-<p>EMPLOYEE CUSTOMER MAP PAGE</p>
-<a href="https://ibb.co/9ZbmJ5Z"><img src="https://i.ibb.co/tLqwSrL/peta-pelanggan-karyawan.jpg" alt="peta-pelanggan-karyawan" border="0"></a>
-
-
-
 
 # Server Requierment
 PHP version 7.3 or newer
